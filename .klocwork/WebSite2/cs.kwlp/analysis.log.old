@@ -1,0 +1,12 @@
+2015/08/12 11:30:20.071:Klocwork 10.3.0.1466 for Visual Studio 12.0 Professional
+2015/08/12 11:30:20.071:Installation directory 'D:\Klocwork\desktop\10.3.0.1466\vs'
+2015/08/12 11:30:20.071:Solution configuration 'Debug'
+2015/08/12 11:30:20.071:Running analysis
+2015/08/12 11:30:20.087:Project 'ConsoleApplication1' configuration 'Debug|Any CPU'
+2015/08/12 11:30:20.087:Analysis log 'C:\Users\twolff\documents\visual studio 2013\Projects\WebSite2\.klocwork\WebSite2\cs.kwlp\csanalysis.log'
+2015/08/12 11:30:20.087:Starting 'D:\Klocwork\desktop\10.3.0.1466\vs\exec\ix86-pc-win32\kwcs.exe "--license-host" flex1.klocwork.com "--license-port" 27000 "--xml" "C:\Users\twolff\documents\visual studio 2013\Projects\WebSite2\.klocwork\WebSite2\cs.kwlp\problems.xml" "--build-spec" "C:\Users\twolff\documents\visual studio 2013\Projects\WebSite2\.klocwork\WebSite2\cs.kwlp\csbuildspec.txt" "--lang" en "--error-config" C:\Users\twolff\AppData\Local\Temp\Klocwork\1snyebdd.hi3\qwrldgow.nh1builtin_csharp_plugins.xml "--error-config" C:\Users\twolff\AppData\Local\Temp\Klocwork\1snyebdd.hi3\fzhigsc2.2zhmisra.xml "--error-config" C:\Users\twolff\AppData\Local\Temp\Klocwork\1snyebdd.hi3\krarfy2r.0yjMY.C.KAST.CHECKER.xml "--error-config" C:\Users\twolff\AppData\Local\Temp\Klocwork\1snyebdd.hi3\31aezs0m.bxianalysis_profile.pconf "--error-config" C:\Users\twolff\AppData\Local\Temp\Klocwork\1snyebdd.hi3\3eynavxb.cxpuserprofile.pconf.xml'
+2015/08/12 11:30:21.429:Output: Compiling C:\Users\twolff\Documents\Visual Studio 2013\Projects\WebSite2\ConsoleApplication1\Program.cs
+2015/08/12 11:30:21.429:Output: Compiling C:\Users\twolff\Documents\Visual Studio 2013\Projects\WebSite2\ConsoleApplication1\Properties\AssemblyInfo.cs
+2015/08/12 11:30:21.900:Analysis finished with exit code 0
+2015/08/12 11:30:21.900:Parsing result
+2015/08/12 11:30:21.900:Analysis completed

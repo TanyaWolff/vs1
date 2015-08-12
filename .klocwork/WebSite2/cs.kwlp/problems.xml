@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<errorList xmlns="http://www.klocwork.com/inForce/report/1.0">
+<problem>
+ <file>C:\Users\twolff\Documents\Visual Studio 2013\Projects\WebSite2\ConsoleApplication1\Program.cs</file>
+ <line>15</line>
+ <column>13</column>
+ <code>CS.EMPTY.CATCH</code>
+ <message>Catch clause is empty</message>
+ <anchor>0</anchor>
+ <method>Program.cs</method>
+ <severity>Review</severity>
+ <severitylevel>4</severitylevel>
+ <displayAs>Error</displayAs>
+ <category>CSharp</category>
+ <citingStatus>Analyze</citingStatus>
+ <state>New</state>
+</problem>
+</errorList>
